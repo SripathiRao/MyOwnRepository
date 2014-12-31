@@ -1,0 +1,4 @@
+MyOwnRepository
+===============
+
+A sample repository
